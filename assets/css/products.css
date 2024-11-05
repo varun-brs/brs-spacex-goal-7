@@ -10,3 +10,15 @@
 .product-price {
   text-align: center;
 }
+
+.cart {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: none;
+  margin-top: 15px;
+}
+
+.footer-container {
+  margin-top: 500px;
+}
